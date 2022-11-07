@@ -1,0 +1,13 @@
+#contain {
+    margin  : 0 auto;
+    padding : 50px;
+    width   : 1190px;
+    height  : 100%;
+    border  : 1px solid;
+    overflow: scroll;
+}
+
+.submit {
+    text-align: center;
+    font-size : 26px;
+}
